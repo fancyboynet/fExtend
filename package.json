@@ -1,0 +1,23 @@
+{
+  "name": "fextend",
+  "version": "0.0.1",
+  "description": "A javascript function, which can runs both in browser and node.js, to extend an object from other object deeply or not.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fancyboynet/fExtend.js.git"
+  },
+  "keywords": [
+    "extend",
+    "object"
+  ],
+  "author": {
+    "name": "fancy",
+    "email": "fancyboynet@gmail.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fancyboynet/fExtend.js/issues"
+  },
+  "homepage": "https://github.com/fancyboynet/fExtend.js"
+}
